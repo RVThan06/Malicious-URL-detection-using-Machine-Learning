@@ -1,6 +1,6 @@
 ## Malicious URL detection with Machine Learning 
 
-#### This project consist of 651191 URLs which fall into four classes (benign, defacement, phising, malware). The goal of this project is to classify theb URLs into 4 classes. Thus machine learning models are used to solve this problem. 
+### This project consist of 651191 URLs which fall into four classes (benign, defacement, phising, malware). The goal of this project is to classify theb URLs into 4 classes. Thus machine learning models are used to solve this problem. 
 
 ### Steps taken in this project
 
